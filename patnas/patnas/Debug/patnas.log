@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\adm\source\repos\patnas\patnas\main.cpp(64,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\adm\source\repos\patnas\patnas\main.cpp(64,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\adm\source\repos\patnas\patnas\main.cpp(66,43): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\adm\source\repos\patnas\patnas\main.cpp(82,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\adm\source\repos\patnas\patnas\main.cpp(82,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  patnas.vcxproj -> C:\Users\adm\source\repos\patnas\Debug\patnas.exe
